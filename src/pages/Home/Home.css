@@ -1,0 +1,14 @@
+.main {
+  padding: 5rem 2rem 2rem 2rem;
+}
+
+.gap-larger {
+  row-gap: 3rem;
+  column-gap: 1.5rem;
+  justify-content: space-evenly;
+}
+
+.alert-text {
+  margin: 2rem 0;
+  text-align: center;
+}
