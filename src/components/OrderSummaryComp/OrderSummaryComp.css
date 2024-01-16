@@ -1,4 +1,4 @@
-/* .os-container {
+.os-container {
     width: 45rem;
     padding: 3rem 2rem 3rem 2rem;
     color: var(--text-color-primary);
@@ -35,4 +35,4 @@
 
 .span-md {
     font-size: 1.25rem;
-} */
+}

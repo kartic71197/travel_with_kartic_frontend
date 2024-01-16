@@ -1,4 +1,4 @@
-/* .drop-down-container {
+.drop-down-container {
     background-color: var(--background-color);
     top: 4.5rem;
     right: 2rem;
@@ -18,4 +18,4 @@
 
 .option-span:hover {
     background-color: rgba(0, 0, 0, .1);
-} */
+}
